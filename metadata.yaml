@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '3271'
     url: http://www.gutenberg.org/2009/agents/3271
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34088#A-Poached-Peerage
 gutenberg_issued: '2010-10-16'
 gutenberg_type: Text
 identifiers:
